@@ -1,8 +1,8 @@
+<img src="https://raw.githubusercontent.com/illinois-dap/DataAnalysisForPhysicists/main/img/Project_GalaxyZoo-galaxypic.png" width=300 align=left>
 
 
 # Galaxy Zoo Project
 
-<img src="https://raw.githubusercontent.com/illinois-dap/DataAnalysisForPhysicists/main/img/Project_GalaxyZoo-galaxypic.png" width=300 align=left>
 
 
 
