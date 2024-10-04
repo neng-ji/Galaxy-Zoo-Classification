@@ -21,6 +21,9 @@ The data for this project comes from:
 - **Sloan Digital Sky Survey (SDSS)**
 - **Galaxy Zoo API**
 
+
+<img src="https://raw.githubusercontent.com/illinois-dap/DataAnalysisForPhysicists/main/img/Project_GalaxyZoo-galaxypic.png" width=300 align=left>
+
 ## Requirements
 
 To run this project, you'll need to install the following Python packages:
@@ -29,7 +32,6 @@ To run this project, you'll need to install the following Python packages:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-<img src="https://raw.githubusercontent.com/illinois-dap/DataAnalysisForPhysicists/main/img/Project_GalaxyZoo-galaxypic.png" width=300 align=left>
 
 
 
